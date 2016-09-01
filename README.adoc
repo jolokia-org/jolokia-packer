@@ -1,0 +1,5 @@
+== Jolokia Packer
+
+This tools helps in creating custom https://www.jolokia.org[Jolokia 2] agents. It provides a CLI and Web interface for selecting various Jolokia components, defining a default configuration and access restrictions. The ouput a binary artifacts for JVM, WAR and OSGi Jolokia agents.
+
+The packing process can be completely described by a YAML configuration file which can be provided as input.
